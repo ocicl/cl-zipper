@@ -1,0 +1,9 @@
+* cl-zipper
+
+A Common Lisp implementation of the Zipper datastructure
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/inaimathi/cl-zipper.git |
+| commit  | a8c77db                                        |
+| systems | cl-zipper                                      |
+|---------+------------------------------------------------|
